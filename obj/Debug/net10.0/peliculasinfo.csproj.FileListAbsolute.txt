@@ -1,0 +1,14 @@
+C:\geminicode\peliculasinfo\bin\Debug\net10.0\peliculasinfo.exe
+C:\geminicode\peliculasinfo\bin\Debug\net10.0\peliculasinfo.deps.json
+C:\geminicode\peliculasinfo\bin\Debug\net10.0\peliculasinfo.runtimeconfig.json
+C:\geminicode\peliculasinfo\bin\Debug\net10.0\peliculasinfo.dll
+C:\geminicode\peliculasinfo\bin\Debug\net10.0\peliculasinfo.pdb
+C:\geminicode\peliculasinfo\obj\Debug\net10.0\peliculasinfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\geminicode\peliculasinfo\obj\Debug\net10.0\peliculasinfo.AssemblyInfoInputs.cache
+C:\geminicode\peliculasinfo\obj\Debug\net10.0\peliculasinfo.AssemblyInfo.cs
+C:\geminicode\peliculasinfo\obj\Debug\net10.0\peliculasinfo.csproj.CoreCompileInputs.cache
+C:\geminicode\peliculasinfo\obj\Debug\net10.0\peliculasinfo.dll
+C:\geminicode\peliculasinfo\obj\Debug\net10.0\refint\peliculasinfo.dll
+C:\geminicode\peliculasinfo\obj\Debug\net10.0\peliculasinfo.pdb
+C:\geminicode\peliculasinfo\obj\Debug\net10.0\peliculasinfo.genruntimeconfig.cache
+C:\geminicode\peliculasinfo\obj\Debug\net10.0\ref\peliculasinfo.dll
